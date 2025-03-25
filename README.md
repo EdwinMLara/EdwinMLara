@@ -23,6 +23,4 @@
 
 <p> II'm very a proud due to i build my own data structure library. it was made in my free time but at this moment so far the library can handle structures such as: Linked list, Stacks, Queus, Binary trees, Min- Max head binary trees and graph. All those is based on linked list as main data structure. Soon a hope to develop them with arrays.   </P>
 
-<a href="https://github.com/EdwinMLara/Estruturas-TypeScript">
-    <img src="hassets/ESTRUCTURAS-JUNTAS.png" width="90%" aling="center"/>
-</a> 
+![Data Estructures](https://github.com/EdwinMLara/EdwinMLara/blob/main/assets/ESTRUCTURAS-JUNTAS.png)
